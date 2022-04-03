@@ -1,0 +1,24 @@
+{
+  "rate": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "Fthis is first feedbdcsqcack from db"
+    },
+    {
+      "id": 3,
+      "rating": 7,
+      "text": "Tthis is first feedback from db"
+    },
+    {
+      "text": "This is a new rate to test db.json",
+      "rating": 5,
+      "id": 4
+    },
+    {
+      "text": "testing new rating updating",
+      "rating": 10,
+      "id": 5
+    }
+  ]
+}
